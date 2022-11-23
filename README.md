@@ -5,18 +5,17 @@ Welcome to my page! </br> I'm Jan, Junior Web Developer from **Cloppenburg, Germ
 
 ## Find me at
 
-[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Alexander_Fischenich/cv)
+[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Jan_Francksen/cv)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-francksen-8a7124258/)
 <br>
 
 ## My Projects
 
-[![My Projects](https://img.shields.io/badge/⛽️-Capstone%20Project-blue?style=for-the-badge)](https://github.com/AlexF090/GenialTanken-Capstone)
-<br> **(Dennis and I did the capstone project together) [Here is the link to the app](https://genial-tanken.vercel.app/)**
+[![My Projects](https://img.shields.io/badge/⛽️-Capstone%20Project-blue?style=for-the-badge)](https://cookibooki.app)
 
 <br>
 
-[![My Projects](https://img.shields.io/badge/👨‍💻-All_my_Projects-red?style=for-the-badge)](https://github.com/stars/AlexF090/lists/my-projects-co-author)
+[![My Projects](https://img.shields.io/badge/👨‍💻-All_my_Projects-red?style=for-the-badge)](https://github.com/stars/JanFrancksen)
 
 ## Things I code with
 
