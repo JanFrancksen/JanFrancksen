@@ -68,7 +68,7 @@ Ich bin Jan, 27, Web Developer aus Cloppenburg, Niedersachsen.
 
 #### Prototyping
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/adobe%20xd-f85ef0?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 
 #### Photoediting & -manipulation
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-32a8ff?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
