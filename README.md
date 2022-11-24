@@ -12,7 +12,7 @@ Ich bin Jan, 27, Web Developer aus Cloppenburg, Niedersachsen.
 * 1 Jahr weiter im Ausbildungsbetrieb gearbeitet
 * 1/2 Jahr Angestellter im Marketing
 * 2 Jahre selbständiger Frontend-Developer
-* Aktuell Immatrikuliert in Wirtschaftswissenschaften und Sozialwissenschaften
+* Aktuell immatrikuliert in Wirtschaftswissenschaften und Sozialwissenschaften
 
 ### Stärken
 * CSS & Tailwind auf absolutem experten Niveau
