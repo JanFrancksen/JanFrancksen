@@ -66,16 +66,20 @@ Ich bin Jan, 27, Web Developer aus Cloppenburg, Niedersachsen.
 
 ### UI / UX
 
+#### Prototyping
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+#### Photoediting & -manipulation
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-32a8ff?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Affinity Photo](https://img.shields.io/badge/affinity%20photo-9058d8?style=for-the-badge&logo=affinity%20photo&logoColor=white)
 
+#### Desktop-Publishing
 ![Adobe Indesign](https://img.shields.io/badge/adobe%20indesign-ff3366?style=for-the-badge&logo=adobe%20indesign&logoColor=white)
 ![Affinity Publisher](https://img.shields.io/badge/affinity%20publisher-ffa364?style=for-the-badge&logo=affinity%20publisher&logoColor=white)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-14b649?style=for-the-badge)
 
+#### Vektorbasierte Grafikprogramme
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-f89600?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-4bb9e5?style=for-the-badge&logo=affinity%20designer&logoColor=white)
 
