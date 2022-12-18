@@ -83,7 +83,9 @@ Ich bin Jan, 27, Web Developer aus Cloppenburg, Niedersachsen.
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-f89600?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-4bb9e5?style=for-the-badge&logo=affinity%20designer&logoColor=white)
 
+#### Weiter Programmkenntnisse
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-9b9aff?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/adobe%20premiere-9b9aff?style=for-the-badge&logo=adobe%20premiere&logoColor=white)
 
 ### Utilities & Tools
 
