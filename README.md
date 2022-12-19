@@ -31,7 +31,7 @@ Ich bin Jan, 27, Web Developer aus Cloppenburg, Niedersachsen.
 ## Mein Projekte
 
 [![CookiBooki](https://img.shields.io/badge/CookiBooki-green?style=for-the-badge)](https://cookibooki.app)
-[![My Projects](https://img.shields.io/badge/Alle_Projekte-red?style=for-the-badge)](https://github.com/JanFrancksen)
+[![My Projects](https://img.shields.io/badge/Alle_Projekte-red?style=for-the-badge)](https://github.com/JanFrancksen?tab=repositories)
 
 ## Mein Stack
 
