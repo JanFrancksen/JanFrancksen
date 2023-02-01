@@ -1,10 +1,8 @@
 # 👋 Willkommen in meinem Github-Space.
 
-## Aktuell suche ich nach einer Stelle als Web-Developer. Kontaktiert mich gerne!
-
 ## Steckbrief
 
-Ich bin Jan, 27, Web Developer aus Cloppenburg, Niedersachsen.
+Ich bin Jan, 27, Frontend Entwickler aus Cloppenburg, Niedersachsen.
 
 ### Erfahrung
 * Mit 14 Jahren begonnen Webentwicklung zu betreiben
