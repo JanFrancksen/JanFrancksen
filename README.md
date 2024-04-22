@@ -1,14 +1,16 @@
-# 👋 Welcome to my GitHub Space.
+# J1n Dev
 
-## Profile Summary
+Coding with Style, Designing with Purpose: Crafting User-Centric Frontends with Precision.
 
-I'm Jan, a 28-year-old Frontend Developer at Cleverreach in Cloppenburg.
+## That's Me
+
+I'm Jan, a 28-year-old Frontend Developer, based in Cloppenburg, Germany.
 
 ### Experience
 * Started web development at the age of 14
-* Media designer apprenticeship with a focus on digital media
-* 4+ years of professional experience in web development
-* Frontend Developer at Cleverreach since 03/2023
+* Trained media designer with a focus on frontend development
+* 5+ years of professional experience in web development
+* Frontend Developer at CleverReach since 03/2023
 
 ## Find Me Here
 
