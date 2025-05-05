@@ -4,12 +4,12 @@ Coding with Style, Designing with Purpose: Crafting User-Centric Frontends with 
 
 ## That's Me
 
-I'm Jan, a 28-year-old Frontend Developer, based in Cloppenburg, Germany.
+I'm Jan, a 30-year-old Frontend Developer, based in Cloppenburg, Germany.
 
 ### Experience
 * Started web development at the age of 14
 * Trained media designer with a focus on frontend development
-* 5+ years of professional experience in web development
+* 7+ years of professional experience in web development
 * Frontend Developer at CleverReach since 03/2023
 
 ## Find Me Here
